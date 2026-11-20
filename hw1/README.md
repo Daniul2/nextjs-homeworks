@@ -1,19 +1,19 @@
 # HW1 — Next.js + JSONPlaceholder
 
-Сторінки:
+Pages:
 
-| Маршрут | Що показує |
+| Route | What it shows |
 |---|---|
-| `/users` | список користувачів (кожен — лінка на `/users/id`) |
-| `/users/[id]` | один користувач |
-| `/posts` | список постів (кожен — лінка на `/posts/id`) |
-| `/posts/[id]` | один пост |
-| `/comments` | список коментарів (кожен — лінка на `/comments/id`) |
-| `/comments/[id]` | один коментар |
+| `/users` | list of users (each one links to `/users/id`) |
+| `/users/[id]` | a single user |
+| `/posts` | list of posts (each one links to `/posts/id`) |
+| `/posts/[id]` | a single post |
+| `/comments` | list of comments (each one links to `/comments/id`) |
+| `/comments/[id]` | a single comment |
 
-Активний пункт меню підсвічується (`usePathname`).
+The active menu item is highlighted (`usePathname`).
 
-## Запуск
+## Run
 
 ```bash
 cd hw1

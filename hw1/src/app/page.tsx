@@ -2,7 +2,7 @@ const HomePage = () => {
     return (
         <div>
             <h1>HW1</h1>
-            <p>Оберіть розділ у меню: users, posts або comments.</p>
+            <p>Choose a section in the menu: users, posts or comments.</p>
         </div>
     );
 };

@@ -1,5 +1,5 @@
-# OWU — домашні завдання (Next.js)
+# OWU — Next.js homeworks
 
-Гілка `homeworks` містить лише ДЗ на перевірку:
+The `homeworks` branch contains only the homeworks submitted for review:
 
-- [`hw1`](./hw1) — users / posts / comments з JSONPlaceholder
+- [`hw1`](./hw1) — users / posts / comments from JSONPlaceholder

@@ -11,7 +11,7 @@ type Props = { children: React.ReactNode };
 
 const RootLayout = ({children}: Readonly<Props>) => {
     return (
-        <html lang="uk">
+        <html lang="en">
         <body>
         <Menu/>
         <main>{children}</main>
